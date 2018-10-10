@@ -1,0 +1,91 @@
+/***** Grid *****/
+.full-width{
+	width: 1200px;
+	margin: 0 auto;
+}
+.half-width{
+	height: 100px;
+	display: inline-block;
+	float: left;
+	width: 600px;
+}
+.third-width{
+	height: 215px;
+	width: 398px;
+	display: inline-block;
+	float: left;
+	border-top: 1px solid #dedbdc;
+	border-bottom: 1px solid #dedbdc;
+	border-right: 1px solid #dedbdc;
+}
+
+/***** General Style *****/
+body{
+	font-family: Montserrat, helvetica, sans-serif;
+	background-color: #ffffff;
+}
+
+
+
+/***** Header *****/
+
+header h1{
+	text-transform: uppercase;
+	line-height: 50px;
+}
+header #rogue{
+	color: #77a466
+}
+
+header a{
+	text-decoration: none;
+	color: #77a466;
+
+}
+header li{
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 18px;
+	float: left;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+header ul{
+	float: right;
+	line-height: 50px;
+	padding: 0 auto;
+}
+
+/***** Main *****/
+main #hero{
+	border: solid #77a466;
+	border-width: 3px 0px;
+}
+
+#about h3{
+	text-transform: uppercase;
+	color: #77a466;
+}
+main h4{
+	text-transform: uppercase;
+	padding-left: 25px;
+}
+main a{
+	text-decoration: none;
+	color: #77a466;
+	padding-left: 25px;
+}
+main #menu p{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+footer h4{
+	text-align: center;
+	text-transform: uppercase;
+}
+footer #fresh{
+	font-family: 'Marck Script', cursive;
+	color: #77a466;
+}
+
