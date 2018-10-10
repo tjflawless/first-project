@@ -30,7 +30,7 @@ body{
 /***** Header *****/
 
 header h1{
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	line-height: 51px;
 }
 header #rogue{
