@@ -30,8 +30,9 @@ body{
 /***** Header *****/
 
 header h1{
-	/*text-transform: uppercase;*/
 	line-height: 50px;
+	text-transform: uppercase;
+
 }
 header #rogue{
 	color: #77a466
